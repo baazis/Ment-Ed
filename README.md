@@ -76,7 +76,6 @@ Copy the localhost url (usually localhost:5000/) and paste in browser
 
 # Links
 
-### PPT of IDEA - Devspace Ment-ED review2.pdf (in files above)
 
 Video explaination of Idea and prototype-
 
