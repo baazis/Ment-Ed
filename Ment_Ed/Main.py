@@ -18,7 +18,7 @@ app.config['MAIL_PORT']= 587
 app.config['MAIL_USE_SSL']= False
 app.config['MAIL_USE_TLS']= True
 app.config['MAIL_USERNAME'] = 'mentedsupp@gmail.com'
-app.config['MAIL_PASSWORD'] = 'NPt-Lp}h=JKzW5J}'
+app.config['MAIL_PASSWORD'] = '________'
 
 db = SQLAlchemy(app)
 mail= Mail(app)
